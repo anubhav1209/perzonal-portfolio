@@ -1,0 +1,7 @@
+body{
+    font-family: 'roboto';
+    scroll-behavior: smooth;
+}
+.navbar-brand{
+    font-weight: bold;
+}

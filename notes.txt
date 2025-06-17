@@ -1,0 +1,22 @@
+ONLINE RESUME portfolio
+==================================================
+
+main project folder
+portfolio 
+    index.html
+    css/
+        style.css
+    images/
+    js/
+        script.js
+
+
+==================================================
+
+ -   Intro 
+ -   about me
+ -   skills
+ -   project
+ -   experience
+ -   contact
+
